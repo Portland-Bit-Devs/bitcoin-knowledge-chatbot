@@ -1,6 +1,7 @@
 # bitcoin-python-chatbot
 
 A Chatbot experiment as a Bitcoin expert.
+Anyone in Portland Bitdevs group is welcome to contribute, or push changes.   It wont hurt anything.
 
 ## Installation
 
