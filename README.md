@@ -1,6 +1,7 @@
 # bitcoin-python-chatbot
 
 A Chatbot experiment as a Bitcoin expert.
+Anyone in Portland Bitdevs group is welcome to contribute, or push changes.   It wont hurt anything.
 
 ## Installation
 
@@ -27,6 +28,17 @@ Once inside, you should see the .ipynb project file to open.
 ## Instructions
 
 Run each step in the notebook, one by one, until you reach the chatbot at the bottom.
+
+
+## Plans
+
+Ideas to enhance this project:
+
+* Create additional index files from other sources.  See "Llama Hub" for more integrations."
+    * Create one .ipynb file per data source?
+* Create a single page HTML app to host this chatbot.  Needs a domain name.
+* Refine, cleanup, enhance, in general.
+
 
 
 
